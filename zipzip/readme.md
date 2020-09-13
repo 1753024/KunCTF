@@ -14,4 +14,4 @@ $ see captcha
 
 ![see](./pic2.png)
 
-KunCTF{copy_me_plz}
+KunCTF{Copy_me_plz}
