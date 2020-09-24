@@ -4,14 +4,14 @@ The SHA text is 65 character then we need to remove 1 of these
 
 Use this code to generate all the possible strings
 
-'''
+```
 shaText="382132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f12f"
 for i in range(len(shaText)-1):
     print(shaText[:i]+shaText[i+1:])
 
-'''
+```
 Then we have: 
-'''
+```
 82132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f12f
 32132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f12f
 38132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f12f
@@ -76,7 +76,7 @@ Then we have:
 382132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c512f
 382132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f2f
 382132701c4733c3402706cfdd3c8fc7f4z1f80a88dce5428d145259a41c5f1f
-'''
+```
 
 Use https://crackstation.net/ to crack all the strings
 
